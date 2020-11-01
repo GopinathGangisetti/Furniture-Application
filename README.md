@@ -1,2 +1,2 @@
-# Furniture-Application
-A responsive SPA using SASS, Javascript, and NodeJS 
+# Personal Task Manager using React
+A responsive SPA using React, Javascript, HTML and CSS
